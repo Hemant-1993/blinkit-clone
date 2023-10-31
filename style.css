@@ -145,7 +145,8 @@ letter-spacing: 0.231px;
 }
 .item3>div{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
     margin-top: 10px;
     font-family: SF Pro Display;
 font-size: 17px;
